@@ -1,0 +1,2 @@
+# INF4067 initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/LISINA-10/INF4067.gitgit push -u origin main
+# INF4067 initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/LISINA-10/INF4067.gitgit push -u origin main
